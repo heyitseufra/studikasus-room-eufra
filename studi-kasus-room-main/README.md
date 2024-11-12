@@ -1,4 +1,4 @@
-# Nama Proyek
+# Studi Kasus Room
 
 Setelah mengikuti semua langkah dalam codelab, aplikasi berhasil dijalankan dengan baik. Saya menambahkan beberapa data ke dalam database dan memeriksa hasilnya pada tabel `items`. Untuk memastikan bahwa penambahan data berhasil, Anda dapat membuka tab **App Inspection** di Android Studio.
 
